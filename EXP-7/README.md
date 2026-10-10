@@ -1,4 +1,4 @@
-# Text Preprocessing and Word2Vec Using NLTK
+# TEXT PREPROCESSING AND EMBEDDING GENERATION USING NLP LIBRARIES
 
 ## Aim
 To perform text preprocessing using NLTK and generate Word2Vec embeddings to analyze semantic relationships between words.
